@@ -10,3 +10,6 @@
 [submodule "scenarios/KestrelHttpServer"]
 	path = scenarios/KestrelHttpServer
 	url = https://github.com/aspnet/KestrelHttpServer
+[submodule "scenarios/Roslyn"]
+	path = scenarios/Roslyn
+	url = https://github.com/dotnet/roslyn
